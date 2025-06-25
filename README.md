@@ -1,6 +1,6 @@
-# mltradealgo
+# ML Stock Movement Predictor
 
-ML Stock Movement Predictor
+Description
 • Developed machine learning pipeline using Python and Alpaca API to predict short-term stock price movements
 with decision trees and random forest model.
 • Engineered features from real-time and historical market data, achieving 95% accuracy and improving prediction
